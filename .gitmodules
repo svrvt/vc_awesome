@@ -1,0 +1,7 @@
+[submodule "rice"]
+	path = /home/ru/.config/awesome-rice
+	url = git@github.com:svrvt/awesome-rice.git
+	branch = ru
+[submodule "my"]
+	path = /home/ru/.config/awesome-config
+	url = git@github.com:svrvt/awesome-config.git

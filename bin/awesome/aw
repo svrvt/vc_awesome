@@ -1,0 +1,12 @@
+#!/bin/bash
+
+case $1 in
+ri*)
+	ln -sfn ~/.config/awesome-rice ~/.config/awesome
+  awesome-client "awesome.restart()"
+	;;
+*)
+	ln -sfn ~/.config/awesome-config ~/.config/awesome
+  awesome-client "awesome.restart()"
+	;;
+esac

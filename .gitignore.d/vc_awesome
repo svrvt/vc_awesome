@@ -1,0 +1,11 @@
+*
+!/bin/awesome/aw
+!/bin/awesome/build_lgi.sh
+!/bin/awesome/prepare-build.sh
+!/.config/awesome-config
+!/.config/awesome-rice
+!/.config/picom/picom.conf
+!/.config/picom/picomQtile.conf
+!/.gitignore.d/vc_awesome
+!/.gitmodules
+!/.local/share/fonts/awesomewm-font.ttf
