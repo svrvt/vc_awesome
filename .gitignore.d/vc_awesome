@@ -8,4 +8,5 @@
 !/.config/picom/picomQtile.conf
 !/.gitignore.d/vc_awesome
 !/.gitmodules
+!/.local/share/awesome-code-doc
 !/.local/share/fonts/awesomewm-font.ttf
