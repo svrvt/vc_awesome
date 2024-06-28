@@ -10,3 +10,4 @@
 !/.gitmodules
 !/.local/share/awesome-code-doc
 !/.local/share/fonts/awesomewm-font.ttf
+!/.local/share/zsh/vendor-completions/_aw
