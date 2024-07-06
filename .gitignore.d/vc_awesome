@@ -7,6 +7,9 @@
 !/.config
 !/.config/awesome-config
 !/.config/awesome-rice
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/vc_awesome
 !/.config/picom
 !/.config/picom/picom.conf
 !/.config/picom/picomQtile.conf
