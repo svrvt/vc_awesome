@@ -1,12 +1,18 @@
 #!/bin/bash
 
-case $1 in
-ri*)
-	ln -sfn ~/.config/awesome-rice ~/.config/awesome
-  awesome-client "awesome.restart()"
+if [ -d ~/.config/awesome-"$1" ]; then
+	owner=true
+else
+	owner=me
+fi
+
+case $owner in
+true)
+	ln -sfn ~/.config/awesome-"$1" ~/.config/awesome
+	awesome-client "awesome.restart()"
 	;;
-*)
+me | *)
 	ln -sfn ~/.config/awesome-config ~/.config/awesome
-  awesome-client "awesome.restart()"
+	awesome-client "awesome.restart()"
 	;;
 esac
