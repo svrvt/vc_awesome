@@ -1,3 +1,7 @@
+[submodule "worron"]
+	path = .config/awesome-worron
+	url = git@github.com:svrvt/awesome-worron.git
+	branch = ru
 [submodule "rice"]
 	path = .config/awesome-rice
 	url = git@github.com:svrvt/awesome-rice.git
