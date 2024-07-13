@@ -5,5 +5,8 @@ checkout =
   git -C .config/awesome-worron remote add worron-rakanalh git@github.com:rakanalh/awesome-config.git
   git -C .config/awesome-rice remote add rice git@github.com:kosorin/awesome-rice.git
 
+[src/build/awesome]
+checkout = git clone git@github.com:awesomeWM/awesome.git awesome
+
 
 # vi: ft=ini syntax=sh
