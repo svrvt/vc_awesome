@@ -1,17 +1,17 @@
-[~/.config/vcsh/repo.d/vc_awesome.git]
+[$HOME/.config/vcsh/repo.d/vc_awesome.git]
 checkout = 
   vcsh clone https://github.com/svrvt/vc_awesome.git &&
   git -C ~/.config/awesome-worron remote add worron https://github.com/worron/awesome-config.git &&
   git -C ~/.config/awesome-worron remote add worron-rakanalh https://github.com/rakanalh/awesome-config.git &&
   git -C ~/.config/awesome-rice remote add rice https://github.com/kosorin/awesome-rice.git &&
 
-[~/src/build/awesome]
+[$HOME/src/build/awesome]
 checkout = git clone https://github.com/awesomeWM/awesome.git awesome
 
-[~/src/build/lgi]
+[$HOME/src/build/lgi]
 checkout = git clone https://github.com/lgi-devs/lgi.git lgi
 
-[~/src/build/lua-pam]
+[$HOME/src/build/lua-pam]
 checkout = git clone https://github.com/RMTT/lua-pam.git lua-pam
 
 # vi: ft=ini syntax=sh
