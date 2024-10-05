@@ -10,6 +10,8 @@
 !/.config/awesome-worron
 !/.config/mr
 !/.config/mr/available.d
+!/.config/mr/available.d/build
+!/.config/mr/available.d/build/build-awesome
 !/.config/mr/available.d/vc
 !/.config/mr/available.d/vc/vc_awesome
 !/.config/picom
