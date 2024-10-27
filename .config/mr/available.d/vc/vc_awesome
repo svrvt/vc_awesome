@@ -5,4 +5,4 @@ checkout =
   git -C ~/.config/awesome-worron remote add worron-rakanalh https://github.com/rakanalh/awesome-config.git &&
   git -C ~/.config/awesome-rice remote add rice https://github.com/kosorin/awesome-rice.git &&
 
-# vi: ft=ini syntax=sh
+# vi: ft=ini syntax=bash

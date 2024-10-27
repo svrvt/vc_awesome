@@ -7,4 +7,4 @@ checkout = git clone https://github.com/lgi-devs/lgi.git lgi
 [$HOME/src/build/lua-pam]
 checkout = git clone https://github.com/RMTT/lua-pam.git lua-pam
 
-# vi: ft=ini syntax=sh
+# vi: ft=ini syntax=bash
