@@ -11,9 +11,8 @@
 !/.config/mr
 !/.config/mr/available.d
 !/.config/mr/available.d/services.code.awesome
-!/.config/mr/available.d/vc
-!/.config/mr/available.d/vc/vc_awesome
 !/.config/mr/available.d/workflow.build.awesome
+!/.config/mr/available.d/workflow.vc.awesome
 !/.config/picom
 !/.config/picom/picom.conf
 !/.config/picom/picomQtile.conf
