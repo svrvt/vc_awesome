@@ -10,9 +10,9 @@
 !/.config/awesome-worron
 !/.config/mr
 !/.config/mr/available.d
-!/.config/mr/available.d/services.code.awesome
-!/.config/mr/available.d/workflow.build.awesome
-!/.config/mr/available.d/workflow.vc.awesome
+!/.config/mr/available.d/awesome.services
+!/.config/mr/available.d/build.awesome
+!/.config/mr/available.d/vc.awesome
 !/.config/picom
 !/.config/picom/picom.conf
 !/.config/picom/picomQtile.conf
