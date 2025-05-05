@@ -1,9 +1,10 @@
 *
 !/bin
 !/bin/awesome
-!/bin/awesome/aw
 !/bin/awesome/build_lgi.sh
 !/bin/awesome/prepare-build.sh
+!/bin/desktop
+!/bin/desktop/link-awesome
 !/.config
 !/.config/awesome-config
 !/.config/awesome-rice
@@ -27,4 +28,4 @@
 !/.local/share/fonts/awesomewm-font.ttf
 !/.local/share/zsh
 !/.local/share/zsh/vendor-completions
-!/.local/share/zsh/vendor-completions/_aw
+!/.local/share/zsh/vendor-completions/_link-awesome

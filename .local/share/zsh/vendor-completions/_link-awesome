@@ -1,4 +1,4 @@
-#compdef aw
+#compdef link-awesome
 typeset -A opt_args
 
 typeset -A opt_args
